@@ -1,0 +1,29 @@
+{
+  "name": "dana-franco-pittman-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unakame/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "github",
+    "personal"
+  ],
+  "author": "@unakame",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "firebase": "^4.1.3"
+  },
+  "bugs": {
+    "url": "https://github.com/unakame/portfolio/issues"
+  },
+  "homepage": "https://github.com/unakame/portfolio#readme"
+}
