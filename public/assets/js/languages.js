@@ -11,8 +11,6 @@ var languages = {
 		}
 	};
 
-  
-
 	$(function(){
         $('.translate').click(function(){
         	event.preventDefault();

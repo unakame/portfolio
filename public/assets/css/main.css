@@ -31,7 +31,9 @@ header{
 nav{
   font-size: 19px;
   position: fixed;
-  color: #B4B7B7;}
+  color: #B4B7B7;
+  width: 100%;
+  z-index: 6000}
 
 a{color: #B4B7B7;}
 
@@ -42,11 +44,15 @@ nav ul li{
   list-style: none;
   padding: 30px;}
 
+
+.active {
+  color: #637D83;
+  background: #fff;}
+
 button{
   background-color: #50767A;
   color: #fff;
-  border: none;
-}
+  border: none;}
 
   /*FOOTER*/
 footer{
