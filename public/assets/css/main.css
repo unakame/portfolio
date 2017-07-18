@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'Moonboldlight';
+    src: url('fonts/Moon-Light.woff')  format('woff');}
+
+@font-face {
+    font-family: 'Moonboldbold';
+    src: url('fonts/moon-bold.otf') format('opentype');}
+
 *{
   margin: 0;
   padding: 0;
