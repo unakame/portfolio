@@ -42,7 +42,7 @@ nav{
 
 a{color: #B4B7B7;}
 
-a:hover{color:#fff;}
+a:hover{color:#e4ed49;}
 
 nav ul li{
   display: inline-block;
@@ -50,7 +50,8 @@ nav ul li{
   padding: 30px;}
 
 .active {
-  background: #fff;}
+  background: #fff;
+}
 
 .color-letters{
   color: #637D83;}
