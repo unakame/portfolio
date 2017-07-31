@@ -1,13 +1,13 @@
 var languages = {
 	'en' : {
-		'about' : 'About',
+		'about' : 'About me',
 		'works' : 'Works',
 		'contact' : 'Contact'
 	},
 	'es': {
-        'about' : 'Acerca',
+        'about' : 'Acerca de mí',
 		'works' : 'Trabajos',
-		'contact' : 'Contacto'
+		'contact' : 'Contáctame'
 		}
 	};
 
