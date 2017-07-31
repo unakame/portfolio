@@ -72,10 +72,17 @@ nav ul li{
   font-size: 20px;}  
   /*ABOUT ME*/
 
-.about-me{
+.about-me-section{
   background-color: #fff;
+  color: #637D83;
   height: 100vh;
   width: 100%;}  
+
+.about-me{
+  font-size: 30px;
+  padding-left: 90px;
+  font-family: 'Moonboldbold';
+}  
 
 .picture{
   margin-top: 20px;
@@ -85,6 +92,14 @@ nav ul li{
   background-position: center;
   background-repeat: no-repeat;
   background-size: 410px;
+}
+
+.meta{
+  margin-top: 20px;
+}
+
+.margin{
+  padding-left: 25px;
 }
 
 /*FOOTER*/
