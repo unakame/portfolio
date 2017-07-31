@@ -69,10 +69,25 @@ nav ul li{
   color: #fff;
   top:230px;
   font-family: 'Roboto';
-  font-size: 20px;
-}  
+  font-size: 20px;}  
+  /*ABOUT ME*/
 
-  /*FOOTER*/
+.about-me{
+  background-color: #fff;
+  height: 100vh;
+  width: 100%;}  
+
+.picture{
+  margin-top: 20px;
+  margin-right: -20px;
+  height: 300px;
+  background-image: url('../img/dana.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 410px;
+}
+
+/*FOOTER*/
 footer{
   background-color: #0A7060;
   width: 100%;
