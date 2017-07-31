@@ -59,10 +59,18 @@ nav ul li{
 .right{
   float: right;}
 
-button{
-  background-color: #50767A;
+.description{
+  top:210px;
   color: #fff;
-  border: none;}
+  font-size: 45px;
+  font-family: 'Moonboldbold';}
+
+.description-small{
+  color: #fff;
+  top:230px;
+  font-family: 'Roboto';
+  font-size: 20px;
+}  
 
   /*FOOTER*/
 footer{

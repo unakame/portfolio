@@ -12,9 +12,7 @@ window.addEventListener("scroll", function(){
   document.getElementsByClassName("nav-info")[0].classList.add("color-letters");
   document.getElementsByClassName("nav-info")[1].classList.add("color-letters");
   document.getElementsByClassName("nav-info")[2].classList.add("color-letters");
-  document.getElementsByClassName("nav-info")[0].classList.add("color-hover");
-  document.getElementsByClassName("nav-info")[1].classList.add("color-hover");
-  document.getElementsByClassName("nav-info")[2].classList.add("color-hover");
+
 } if( currentScroll >= 420 && currentScroll < 1160) {
   document.getElementById("ul").classList.add("active");
 } 

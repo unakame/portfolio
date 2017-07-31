@@ -2,12 +2,16 @@ var languages = {
 	'en' : {
 		'about' : 'About me',
 		'works' : 'Works',
-		'contact' : 'Contact'
+		'contact' : 'Contact',
+		'ui': '• UI DEVELOPER •',
+		'hello': "Hello World! I'm Dana Franco Pittman, a developer focused on visual web design"
 	},
 	'es': {
         'about' : 'Acerca de mí',
 		'works' : 'Trabajos',
-		'contact' : 'Contáctame'
+		'contact' : 'Contáctame',
+		'ui' : '• DESARROLLADORA UI •',
+		'hello': "Hola Mundo! Soy Dana Franco Pittman, desarrolladora enfocada en el diseño web"
 		}
 	};
 
